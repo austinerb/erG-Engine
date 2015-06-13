@@ -1,0 +1,308 @@
+!OBJECT
+    !CLASS:com.austinerb.project0.entities.Model:
+    !ASSETNAME:land_1:
+    !X:-103.28198:
+    !Y:-1716.8794:
+    !ANGLE:0.0:
+
+!OBJECT
+    !CLASS:com.austinerb.project0.entities.Model:
+    !ASSETNAME:land_2:
+    !X:-512.5647:
+    !Y:-1758.5593:
+    !ANGLE:0.0:
+
+!OBJECT
+    !CLASS:com.austinerb.project0.entities.Model:
+    !ASSETNAME:land_3:
+    !X:507.51794:
+    !Y:-2103.599:
+    !ANGLE:0.0:
+
+!OBJECT
+    !CLASS:com.austinerb.project0.entities.LightBody:
+    !ASSETNAME:light:
+    !X:-1183.2842:
+    !Y:-796.15875:
+    !ANGLE:0.0:
+
+!OBJECT
+    !CLASS:com.austinerb.project0.entities.Platform:
+    !ASSETNAME:platform:
+    !X:1565.2773:
+    !Y:-1234.1603:
+    !ANGLE:-175.00008:
+
+!OBJECT
+    !CLASS:com.austinerb.project0.entities.Platform:
+    !ASSETNAME:platform:
+    !X:1498.8804:
+    !Y:-1329.0398:
+    !ANGLE:50.0:
+
+!OBJECT
+    !CLASS:com.austinerb.project0.entities.Model:
+    !ASSETNAME:land_4:
+    !X:579.4374:
+    !Y:-2876.562:
+    !ANGLE:0.0:
+
+!OBJECT
+    !CLASS:com.austinerb.project0.entities.Platform:
+    !ASSETNAME:platform:
+    !X:167.75806:
+    !Y:-3328.4028:
+    !ANGLE:0.0:
+
+!OBJECT
+    !CLASS:com.austinerb.project0.entities.Platform:
+    !ASSETNAME:platform:
+    !X:139.75806:
+    !Y:-3422.883:
+    !ANGLE:50.0:
+
+!OBJECT
+    !CLASS:com.austinerb.project0.entities.LightBody:
+    !ASSETNAME:light:
+    !X:1302.7997:
+    !Y:-1405.7596:
+    !ANGLE:0.0:
+
+!OBJECT
+    !CLASS:com.austinerb.project0.entities.LightBody:
+    !ASSETNAME:light:
+    !X:-188.48279:
+    !Y:-2543.6814:
+    !ANGLE:0.0:
+
+!OBJECT
+    !CLASS:com.austinerb.project0.entities.Model:
+    !ASSETNAME:land_5:
+    !X:1078.6802:
+    !Y:-4031.8794:
+    !ANGLE:-120.0:
+
+!OBJECT
+    !CLASS:com.austinerb.project0.entities.Platform:
+    !ASSETNAME:platform:
+    !X:470.64087:
+    !Y:-3757.459:
+    !ANGLE:0.0:
+
+!OBJECT
+    !CLASS:com.austinerb.project0.entities.Platform:
+    !ASSETNAME:platform:
+    !X:717.88074:
+    !Y:-3740.559:
+    !ANGLE:10.0:
+
+!OBJECT
+    !CLASS:com.austinerb.project0.entities.Platform:
+    !ASSETNAME:platform:
+    !X:960.38055:
+    !Y:-3690.4192:
+    !ANGLE:15.0:
+
+!OBJECT
+    !CLASS:com.austinerb.project0.entities.Platform:
+    !ASSETNAME:platform:
+    !X:1198.3403:
+    !Y:-3662.1392:
+    !ANGLE:0.0:
+
+!OBJECT
+    !CLASS:com.austinerb.project0.entities.Platform:
+    !ASSETNAME:platform:
+    !X:1418.0802:
+    !Y:-3404.5793:
+    !ANGLE:0.0:
+
+!OBJECT
+    !CLASS:com.austinerb.project0.entities.Platform:
+    !ASSETNAME:platform:
+    !X:1640.54:
+    !Y:-3339.2593:
+    !ANGLE:35.0:
+
+!OBJECT
+    !CLASS:com.austinerb.project0.entities.Platform:
+    !ASSETNAME:platform:
+    !X:1872.5198:
+    !Y:-3262.1995:
+    !ANGLE:0.0:
+
+!OBJECT
+    !CLASS:com.austinerb.project0.entities.Model:
+    !ASSETNAME:land_2:
+    !X:3377.3398:
+    !Y:-4406.539:
+    !ANGLE:0.0:
+
+!OBJECT
+    !CLASS:com.austinerb.project0.entities.Platform:
+    !ASSETNAME:platform:
+    !X:2342.96:
+    !Y:-3349.5398:
+    !ANGLE:0.0:
+
+!OBJECT
+    !CLASS:com.austinerb.project0.entities.Platform:
+    !ASSETNAME:platform:
+    !X:449.06116:
+    !Y:-3888.5593:
+    !ANGLE:-75.0:
+
+!OBJECT
+    !CLASS:com.austinerb.project0.entities.Platform:
+    !ASSETNAME:platform:
+    !X:599.32117:
+    !Y:-3885.5393:
+    !ANGLE:-90.0:
+
+!OBJECT
+    !CLASS:com.austinerb.project0.entities.Platform:
+    !ASSETNAME:platform:
+    !X:861.9009:
+    !Y:-3842.6194:
+    !ANGLE:-80.0:
+
+!OBJECT
+    !CLASS:com.austinerb.project0.entities.Platform:
+    !ASSETNAME:platform:
+    !X:1083.7407:
+    !Y:-3790.4595:
+    !ANGLE:-90.0:
+
+!OBJECT
+    !CLASS:com.austinerb.project0.entities.Platform:
+    !ASSETNAME:platform:
+    !X:689.74097:
+    !Y:-3857.2993:
+    !ANGLE:-50.0:
+
+!OBJECT
+    !CLASS:com.austinerb.project0.entities.Platform:
+    !ASSETNAME:platform:
+    !X:976.12085:
+    !Y:-3850.6194:
+    !ANGLE:15.0:
+
+!OBJECT
+    !CLASS:com.austinerb.project0.entities.Platform:
+    !ASSETNAME:platform:
+    !X:1291.9807:
+    !Y:-3789.6794:
+    !ANGLE:-85.0:
+
+!OBJECT
+    !CLASS:com.austinerb.project0.entities.Platform:
+    !ASSETNAME:platform:
+    !X:1461.0405:
+    !Y:-3494.6396:
+    !ANGLE:-45.0:
+
+!OBJECT
+    !CLASS:com.austinerb.project0.entities.Platform:
+    !ASSETNAME:platform:
+    !X:1548.5005:
+    !Y:-3533.8997:
+    !ANGLE:-90.0:
+
+!OBJECT
+    !CLASS:com.austinerb.project0.entities.Platform:
+    !ASSETNAME:platform:
+    !X:1753.6803:
+    !Y:-3390.8997:
+    !ANGLE:-90.0:
+
+!OBJECT
+    !CLASS:com.austinerb.project0.entities.Platform:
+    !ASSETNAME:platform:
+    !X:1850.5002:
+    !Y:-3376.9597:
+    !ANGLE:60.0:
+
+!OBJECT
+    !CLASS:com.austinerb.project0.entities.Platform:
+    !ASSETNAME:platform:
+    !X:1676.1204:
+    !Y:-3443.8396:
+    !ANGLE:-15.0:
+
+!OBJECT
+    !CLASS:com.austinerb.project0.entities.Platform:
+    !ASSETNAME:platform:
+    !X:2375.0798:
+    !Y:-3451.1396:
+    !ANGLE:-50.0:
+
+!OBJECT
+    !CLASS:com.austinerb.project0.entities.Platform:
+    !ASSETNAME:platform:
+    !X:2481.9998:
+    !Y:-3470.5596:
+    !ANGLE:-80.0:
+
+!OBJECT
+    !CLASS:com.austinerb.project0.entities.Ladder:
+    !ASSETNAME:ladder:
+    !X:1286.0406:
+    !Y:-3578.6396:
+    !ANGLE:0.0:
+
+!OBJECT
+    !CLASS:com.austinerb.project0.entities.Platform:
+    !ASSETNAME:platform:
+    !X:2602.7397:
+    !Y:-3462.5195:
+    !ANGLE:0.0:
+
+!OBJECT
+    !CLASS:com.austinerb.project0.entities.Platform:
+    !ASSETNAME:platform:
+    !X:2707.4397:
+    !Y:-3589.9795:
+    !ANGLE:95.0:
+
+!OBJECT
+    !CLASS:com.austinerb.project0.entities.Platform:
+    !ASSETNAME:platform:
+    !X:2833.1997:
+    !Y:-3590.1396:
+    !ANGLE:0.0:
+
+!OBJECT
+    !CLASS:com.austinerb.project0.entities.Platform:
+    !ASSETNAME:platform:
+    !X:2917.9795:
+    !Y:-3714.9995:
+    !ANGLE:-80.0:
+
+!OBJECT
+    !CLASS:com.austinerb.project0.entities.Platform:
+    !ASSETNAME:platform:
+    !X:3043.6194:
+    !Y:-3677.7195:
+    !ANGLE:-40.0:
+
+!OBJECT
+    !CLASS:com.austinerb.project0.entities.Platform:
+    !ASSETNAME:platform:
+    !X:1910.9:
+    !Y:-3263.2:
+    !ANGLE:0.0:
+
+!OBJECT
+    !CLASS:com.austinerb.project0.entities.Actor:
+    !ASSETNAME:guy:
+    !X:-1015.72186:
+    !Y:-1057.5867:
+    !ANGLE:0.0:
+
+!OBJECT
+    !CLASS:com.austinerb.project0.entities.LightBody:
+    !ASSETNAME:light:
+    !X:1193.9199:
+    !Y:-3104.8:
+    !ANGLE:0.0:
+

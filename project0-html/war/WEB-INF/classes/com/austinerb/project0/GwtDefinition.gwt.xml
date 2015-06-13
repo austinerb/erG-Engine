@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module>
+    <entry-point class="com.austinerb.project0.client.GwtLauncher"/>
+    <set-configuration-property name="gdx.assetpath" value="../project0-android/assets"/>
+    <inherits name="Game"/>
+    <inherits name="aurelienribon.bodyeditorloader"/>
+    <inherits name="com.badlogic.gdx.backends.gdx_backends_gwt"/>
+</module>
