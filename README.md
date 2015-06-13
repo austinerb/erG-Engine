@@ -2,9 +2,8 @@
 
 erG-Engine (erb Game Engine):
 A (rather poorly designed) game engine with in-game world editor I made after taking an intro to java class.
+Made using LibGDX, Box2d, and box2dlights.
 (Don't bother trying to interpret the source files. It's poorly designed. Really.)
-
-
 
 
 
