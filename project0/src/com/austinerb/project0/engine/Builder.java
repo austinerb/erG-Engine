@@ -45,7 +45,7 @@ public class Builder extends Drawable {
 	}
 
 	private void createPallet() {
-		pallet.add(new Node(game, cursorPos, Assets.NI_NODE));
+		//pallet.add(new Node(game, cursorPos, Assets.NI_NODE));
 		pallet.add(new Enemy(game, cursorPos, Assets.GUY_ANIMATION));
 		pallet.add(new Spawner(game, cursorPos, Assets.GUY_ANIMATION));
 		pallet.add(new Platform(game, cursorPos, Assets.TEXTURES_PLATFORM));

@@ -37,7 +37,7 @@ public class Assets {
 	/////// NON ITEMS (objects without textures)
 	public static final String NI_SPAWNER = "spawner";
 	public static final String NI_LIGHTBODY = "light";
-	public static final String NI_NODE = "node";
+	//public static final String NI_NODE = "node";
 	
 	public Assets() {
 		/////// ANIMATIONS
